@@ -1,0 +1,47 @@
+c:\users\student\documents\visual studio 2017\Projects\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.deps.json
+c:\users\student\documents\visual studio 2017\Projects\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.runtimeconfig.json
+c:\users\student\documents\visual studio 2017\Projects\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.runtimeconfig.dev.json
+c:\users\student\documents\visual studio 2017\Projects\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.dll
+c:\users\student\documents\visual studio 2017\Projects\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.pdb
+c:\users\student\documents\visual studio 2017\Projects\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.AssemblyInfo.cs
+c:\users\student\documents\visual studio 2017\Projects\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.dll
+c:\users\student\documents\visual studio 2017\Projects\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.pdb
+C:\Users\student\Desktop\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.deps.json
+C:\Users\student\Desktop\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.runtimeconfig.json
+C:\Users\student\Desktop\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.runtimeconfig.dev.json
+C:\Users\student\Desktop\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.dll
+C:\Users\student\Desktop\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.pdb
+C:\Users\student\Desktop\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.AssemblyInfo.cs
+C:\Users\student\Desktop\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.dll
+C:\Users\student\Desktop\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.pdb
+D:\ASP.NET\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.deps.json
+D:\ASP.NET\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.runtimeconfig.json
+D:\ASP.NET\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.runtimeconfig.dev.json
+D:\ASP.NET\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.dll
+D:\ASP.NET\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.pdb
+D:\ASP.NET\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.csprojResolveAssemblyReference.cache
+D:\ASP.NET\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.AssemblyInfo.cs
+D:\ASP.NET\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.dll
+D:\ASP.NET\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.pdb
+E:\ASP.NET\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.deps.json
+E:\ASP.NET\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.runtimeconfig.json
+E:\ASP.NET\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.runtimeconfig.dev.json
+E:\ASP.NET\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.dll
+E:\ASP.NET\GroceryList\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.pdb
+E:\ASP.NET\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.csprojResolveAssemblyReference.cache
+E:\ASP.NET\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.csproj.CoreCompileInputs.cache
+E:\ASP.NET\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.AssemblyInfo.cs
+E:\ASP.NET\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.dll
+E:\ASP.NET\GroceryList\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.pdb
+C:\Users\zenwarrior\Documents\JillsProjects\Groceries\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.deps.json
+C:\Users\zenwarrior\Documents\JillsProjects\Groceries\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.runtimeconfig.json
+C:\Users\zenwarrior\Documents\JillsProjects\Groceries\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.runtimeconfig.dev.json
+C:\Users\zenwarrior\Documents\JillsProjects\Groceries\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.dll
+C:\Users\zenwarrior\Documents\JillsProjects\Groceries\GroceryList\bin\Debug\netcoreapp1.1\GroceryList.pdb
+C:\Users\zenwarrior\Documents\JillsProjects\Groceries\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.csprojResolveAssemblyReference.cache
+C:\Users\zenwarrior\Documents\JillsProjects\Groceries\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.csproj.CoreCompileInputs.cache
+C:\Users\zenwarrior\Documents\JillsProjects\Groceries\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.AssemblyInfo.cs
+C:\Users\zenwarrior\Documents\JillsProjects\Groceries\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.dll
+C:\Users\zenwarrior\Documents\JillsProjects\Groceries\GroceryList\obj\Debug\netcoreapp1.1\GroceryList.pdb

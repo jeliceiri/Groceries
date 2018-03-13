@@ -1,0 +1,22 @@
+﻿@model List<GroceryList.Models.Store>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Stores";
+}
+    <h3>Stores</h3>
+    <div class="container">
+        <a asp-controller="Stores" asp-action="Create">Add a store</a>
+        <div class="row">
+            @foreach (var store in @Model)
+            {
+                <div class="col-sm-3">
+                    <p>@store.Name</p>
+                    <p>@store.Address</p>
+                    <p>@store.City, @store.State</p>
+                    <p>@store.PhoneNumber</p>
+                </div>
+            }
+        </div>
+    </div>
